@@ -1,0 +1,18 @@
+Filesystem       Size   Used  Avail Capacity iused      ifree %iused  Mounted on
+/dev/disk1s5s1  234Gi   21Gi  141Gi    13%  553788 2448571572    0%   /
+devfs           194Ki  194Ki    0Bi   100%     672          0  100%   /dev
+/dev/disk1s4    234Gi  7.0Gi  141Gi     5%       8 2449125352    0%   /System/Volumes/VM
+/dev/disk1s2    234Gi  270Mi  141Gi     1%     758 2449124602    0%   /System/Volumes/Preboot
+/dev/disk1s6    234Gi  117Mi  141Gi     1%     394 2449124966    0%   /System/Volumes/Update
+/dev/disk1s1    234Gi   63Gi  141Gi    31% 1965217 2447160143    0%   /System/Volumes/Data
+map auto_home     0Bi    0Bi    0Bi   100%       0          0  100%   /System/Volumes/Data/home
+/dev/disk1s5    234Gi   21Gi  141Gi    13%  553832 2448571528    0%   /System/Volumes/Update/mnt1
+Filesystem       Size   Used  Avail Capacity iused      ifree %iused  Mounted on
+/dev/disk1s5s1  234Gi   21Gi  141Gi    13%  553788 2448571572    0%   /
+devfs           194Ki  194Ki    0Bi   100%     672          0  100%   /dev
+/dev/disk1s4    234Gi  7.0Gi  141Gi     5%       8 2449125352    0%   /System/Volumes/VM
+/dev/disk1s2    234Gi  270Mi  141Gi     1%     758 2449124602    0%   /System/Volumes/Preboot
+/dev/disk1s6    234Gi  117Mi  141Gi     1%     394 2449124966    0%   /System/Volumes/Update
+/dev/disk1s1    234Gi   63Gi  141Gi    31% 1965217 2447160143    0%   /System/Volumes/Data
+map auto_home     0Bi    0Bi    0Bi   100%       0          0  100%   /System/Volumes/Data/home
+/dev/disk1s5    234Gi   21Gi  141Gi    13%  553832 2448571528    0%   /System/Volumes/Update/mnt1
