@@ -1,0 +1,26 @@
+5.10.23
+https://github.com/valisij94/m-fe-110723/tree/master/practice_03_flex
+
+cd Desktop/FE/
+ git clone https://github.com/valisij94/m-fe-110723.git
+
+
+
+tedwilliams@MBP-von-Ted new_folder % git pull
+
+instrykzija
+https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/maxlength
+
+frilancer po wizni- weka
+
+12.10.23
+https://github.com/callbackKid/pet_adoption_desktop
+
+17.10.23
+https://habr.com/ru/companies/ruvds/articles/492760/
+
+22.02.24
+https://redux-toolkit.js.org/rtk-query/usage/queries
+
+29.02.24
+https://medium.com/@zestful_satin_grasshopper_759/javascript-map-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-foreach-f2a258564d02

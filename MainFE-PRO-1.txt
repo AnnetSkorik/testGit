@@ -1,0 +1,287 @@
+28.09.23											
+https://fonts.google.com/specimen/Roboto?query=roboto											
+https://www.figma.com/file/84ZJ64mxvLHvzD50miSYnS/Pet-Adoption-Website-Modified-(Landing-Page)-(Community)?node-id=5%3A25&mode=dev											
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/											
+https://www.youtube.com/@KevinPowell											
+											
+https://flexboxfroggy.com/											
+https://codingfantasy.com/games/flexboxadventure/play											
+https://habr.com/ru/articles/467049/											
+https://docs.google.com/presentation/d/1l3e-V0eiwpN9jdvOhTz-JglK4IOBnQUBmvx5TJxQhew/edit#slide=id.g284cbddd645_0_55 											
+											
+https://docs.google.com/spreadsheets/d/1r9hben-wS28nrL1tiTtcTLwzqhAoZ6ioJc0y1UARgXg/edit#gid=0 											+
+											
+https://www.figma.com/file/84ZJ64mxvLHvzD50miSYnS/Pet-Adoption-Website-Modified-(Landing-Page)-(Community)?node-id=25%3A22&mode=dev											
+											
+5.10.23											
+https://www.figma.com/file/O1tspTcxhvdwPCIBfPrbQ7/In-Class-Practice%3A-Flexbox-Layout-(Community)?node-id=2%3A6&mode=dev											
+https://docs.google.com/presentation/d/17yhx-wMheRIKFCVmXx6u_Td76lXQxZzQU-8NcFBeetI/edit#slide=id.g2862a48c1ef_0_13											
+https://cssgridgarden.com/#ru											
+											
+10.10.23											
+https://developer.mozilla.org/ru/docs/Web/CSS/Pseudo-classes											
+											
+12.1											
+https://github.com/callbackKid/pet_adoption_desktop											
+1440											
+17.10.											
+https://www.figma.com/file/izfDtw6zulYboLY5NFEwlw/Sanakin.lk---HND-Final-Project-(Community)?node-id=0%3A1&mode=dev											
+https://caniuse.com/?search=%3Anot											
+https://github.com/callbackKid/sanakin_boilerplate_110723											
+https://fontawesome.com/v5/icons/font-awesome-logo-full?s=solid											
+https://sass-lang.com/install/											
+											
+19.10.23											
+https://fontawesome.com/											
+marker css											
+https://developer.apple.com/documentation/safari-developer-tools/responsive-design-mode											
+											
+https://codepen.io/jonstodle/details/VrKMRG											
+											
+24.10.23											
+https://github.com/tel-ran-de/110723-fe-arrays.git											
+https://docs.google.com/document/d/1rR1Vm9tYi1ORDP2S8oU7aoMAVEpbFnwN440NvwSZTJ0/edit		
+
+26.10.23
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase
+
+https://www.codewars.com/
+https://leetcode.com/
+// find findIndex sort reduce
+
+https://docs.google.com/presentation/d/1FUzWDMtXEWT-GcwsmSGdfiSE2MvUuBxLMloZn11I1y8/edit#slide=id.g2863cc374fa_0_479
+
+31.10.23
+https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
+https://github.com/tel-ran-de/110723-fe-arrays/blob/main/object.js
+
+9.11.23
+https://docs.google.com/document/d/134XdiDDK3oQ9EzLm7vaU0KqNYGKxsW_xSqXLLJUMdIc/edit
+https://www.w3schools.com/howto/howto_css_custom_checkbox.asp
+https://docs.google.com/document/d/1eH0HQ_QT4zMyansdrc_RHfLQc0_cU7kIVSXlPGuVbjo/edit
+
+21.11.23
+
+const iconFacebook = document.createElement('i')
+
+iconFacebook.classList.add('fa-brands')
+iconFacebook.classList.add('fa-facebook-f')
+header.append(iconFacebook)
+
+
+https://stackoverflow.com/
+ 
+https://www.w3schools.com/js/js_errors.asp
+
+https://docs.google.com/presentation/d/1_FH94iEaL0uW-_K4bmziUPOFklL5yue48lpx-WMQK3o/edit#slide=id.g27b13c9f1cf_0_134
+
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare
+
+23.11.23
+https://www.w3schools.com/jsref/api_fetch.asp
+ 
+https://v8.dev/
+ 
+https://dummyjson.com/docs/products
+ 
+https://petstore3.swagger.io/#/
+ 
+https://developer.twitter.com/en/docs/twitter-api
+
+https://habr.com/ru/articles/464261/
+
+https://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html
+
+http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXJCdXR0b24oKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0MSgpIHsKICAgIGNvbnNvbGUubG9nKCJvbmUgc2Vjb25kIik7Cn0sIDEwMDApOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0MSgpIHsKICAgIGNvbnNvbGUubG9nKCJ0d28gc2Vjb25kIik7Cn0sIDIwMDApOwpjb25zb2xlLmxvZygiSGkhIik7CgpzZXRUaW1lb3V0KGZ1bmN0aW9uIHRpbWVvdXQoKSB7CiAgICBjb25zb2xlLmxvZygiQ2xpY2sgdGhlIGJ1dHRvbiEiKTsKfSwgNTAwMCk7Cgpjb25zb2xlLmxvZygiV2VsY29tZSB0byBsb3VwZS4iKTs%3D!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D
+
+19.12.23
+
+https://docs.google.com/document/d/1_ZqQdQyR3eKyWBRqQ23C_vL4wy1b9kwykfHU1Bp8bcU/edit
+
+https://reactdev.ru/types/050/#state
+
+21/12/23
+
+https://docs.google.com/document/d/1rR1Vm9tYi1ORDP2S8oU7aoMAVEpbFnwN440NvwSZTJ0/edit
+
+https://docs.google.com/spreadsheets/d/1r9hben-wS28nrL1tiTtcTLwzqhAoZ6ioJc0y1UARgXg/edit#gid=0
+
+https://www.youtube.com/watch?v=2Od3MV1-mpk&list=PL0k-9Y7O1GwccXKHRzmvVj17yB7T9pjTo
+
+11.01.24
+
+https://docs.google.com/document/d/1s9WCB2TwbduajDZbUoWxmsRKmC01CV5K2KtDBAyMiHE/edit
+https://2022.stateofjs.com/en-US/resources/#sites_courses
+
+18.01.24
+https://www.youtube.com/watch?v=MUASMtt5h_0
+
+https://vitejs.dev/guide/
+
+https://reactdev.ru/reference/useState/
+
+https://reactdev.ru/reference/useState/#_9\
+
+https://react.dev/reference/react/hooks
+
+https://www.geeksforgeeks.org/reactjs-lifecycle-components/
+
+23.01.24
+
+https://www.npmjs.com/package/uuid
+
+https://dev.to/gulshanaggarwal/npm-packages-to-generate-unique-ids-for-your-next-project-1p3b
+
+25.01.24
+https://openweathermap.org/
+ 
+
+https://openweathermap.org/api/one-call-3#current
+
+https://docs.google.com/spreadsheets/d/1r9hben-wS28nrL1tiTtcTLwzqhAoZ6ioJc0y1UARgXg/edit#gid=0
+
+https://learn.javascript.ru/nullish-operators
+
+31.01.24
+https://jsonplaceholder.typicode.com/users
+
+https://react-hook-form.com/get-started
+
+1.02.24
+
+https://t.me/petrychenko_ivan/562
+https://learn.javascript.ru/optional-chaining
+https://www.react-hook-form.com/api/useform/register
+https://www.react-hook-form.com/get-started/#Applyvalidation
+
+https://regex101.com/
+https://regexr.com/3e48o
+
+https://www.w3schools.com/tags/att_input_type_tel.asp
+https://react-hook-form.com/docs/useform/getvalues
+https://react-hook-form.com/docs/useform#defaultValues
+https://react-hook-form.com/docs/useform/formstate
+https://reactrouter.com/en/main
+https://reactdev.ru/libs/react-router.6/
+
+https://www.figma.com/file/kkIvZKvvX7MGTF51LpB2VI/eCommerce-Website-%7C-Web-Page-Design-%7C-UI-KIT-%7C-Interior-Landing-Page-(Community)?type=design&node-id=0-1&mode=design&t=5MgqrujJIEzje06H-0
+
+https://firebase.google.com/
+
+6.02
+
+https://reactrouter.com/en/main
+https://reactrouter.com/en/main/start/tutorial
+https://reactrouter.com/en/main/route/route
+https://reactrouter.com/en/main/components/nav-link
+https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API
+https://docs.google.com/document/d/1AnCqJycl464WRm_gFpFddrVGg7PLSTu72G2y6VctXLM/edit
+
+8.02.24
+https://react.dev/reference/react/useContext
+https://ru.legacy.reactjs.org/docs/hooks-reference.html
+https://reactdev.ru/learn/#components
+https://reactdev.ru/types/052/#usecontext
+
+https://www.youtube.com/watch?v=TgT2r0T1IeM&ab_channel=CodingPhase
+https://anywhere.epam.com/en/blog/front-end-developer-portfolio
+https://vercel.com/
+
+https://redux.js.org/
+
+13.02.24
+
+https://github.com/mobxjs
+https://www.npmjs.com/package/zustand
+
+https://www.npmjs.com/package/react-redux
+
+https://marketplace.visualstudio.com/items?itemName=ElecTreeFrying.auto-import#:~:text=Auto%20Import%20Relative%20Path%20(vscode%20extension)&text=Press%20Ctrl%2BShift%2BA%20on,in%20your%20active%20text%20editor.
+
+https://www.w3schools.com/js/js_switch.asp
+
+https://miro.medium.com/v2/resize:fit:1400/1*EV1KQifr5KwiupJ9q7tdxA.png
+https://habr.com/ru/articles/439104/
+https://reactdev.ru/libs/redux/basics/
+
+https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+
+15.02.24
+
+npm i @redux-devtools/extension
+https://redux-toolkit.js.org/
+
+22.02.24
+
+Компонент по скролу
+
+import { useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
+
+const ScrollToTop = () => {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+
+  return null;
+};
+
+export default ScrollToTop;
+
+
+https://redux-toolkit.js.org/rtk-query/overview
+
+https://www.npmjs.com/package/react-query
+ 
+https://byby.dev/react-data-fetching-libraries
+
+https://graphql.org/
+
+https://fakeapi.platzi.com/en/rest/products/
+
+https://redux-toolkit.js.org/rtk-query/overview
+
+https://redux-toolkit.js.org/rtk-query/usage/mutations
+
+
+Домашняя работа на 2-3 недели!
+Необходимо создать свой собственный сайт портфолио 
+Страница с информацией о вас: образование, краткая информация о себе, стек технологий, ссылки на соцсети 
+Страница со своими проектами 
+есть навигация по проектам, при нажатии на проект он открывается в бразуере
+ Добавить ссылки на гитхаб репозитории проектов
+При желании добавить любую информацию необходимую на ваш взгляд
+
+
+Устанавливаем npm react-router-dom
+создаем папку Pages - AboutMe, Projects
+создаем файлы под страницы 
+заходим в index.js создаем Routing
+импортируем createRouter и Provider 
+Создаем routing со страницами
+оборачиваем все в Provider 
+Создаем страницу Error.js, добавляем в routing
+Создаем компонент Layout 
+Создаем Header.js 
+Оборачиваем компоненты в NavLink 
+to 
+isActive
+стилизация 
+Создаем верстку с Outlet
+Проверяем работу 
+Создаем Footer 
+Добавляем проекты, создаем переход по проектам
+
+27.02.24
+
+https://axios-http.com/docs/api_intro
+
+https://react.dev/learn/reusing-logic-with-custom-hooks
+https://usehooks.com/
+
+29.02.24
+https://www.npmjs.com/package/redux-persist
